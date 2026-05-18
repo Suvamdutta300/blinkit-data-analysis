@@ -1,12 +1,12 @@
-# 📊 Blinkit Data Analysis Dashboard
+#  Blinkit Data Analysis Dashboard
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project focuses on analyzing Blinkit's sales data using Power BI to uncover meaningful business insights. The dashboard provides a clear view of sales performance, customer behavior, and product trends to support data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall sales performance
 * Identify top-performing products and categories
@@ -15,7 +15,7 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Power BI** – Data visualization and dashboard creation
 * **Excel / CSV Dataset** – Data source
@@ -23,7 +23,7 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * High-demand product categories contribute significantly to total revenue
 * Sales performance varies across outlet types and locations
@@ -32,7 +32,7 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 * Interactive filters and slicers
 * KPI cards for quick insights
@@ -45,18 +45,18 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Overview](./Blinkit-Dashboard-Overview.png)
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 * `Blinkit-Sales-Dashboard.pbix` – Power BI dashboard file
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open it using Microsoft Power BI Desktop
@@ -65,7 +65,7 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 
 
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add real-time data integration
 * Include predictive analytics
@@ -73,13 +73,18 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 
 ---
 
-## 👤 Author
+##  Author
 
 **Suvam Dutta**
-Aspiring Data Analyst
+Data Analyst
+Email : Suvamdutta300@gmail.com
+
+Github : https://github.com/Suvamdutta300
+
+LinkedIn : www.linkedin.com/in/suvam-dutta
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
 Give it a ⭐ on GitHub!
