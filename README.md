@@ -63,7 +63,7 @@ https://github.com/Suvamdutta300/blinkit-data-analysis/blob/main/Blinkit-Dashboa
 2. Open it using Microsoft Power BI Desktop
 3. Interact with the dashboard using filters and visuals
 
----<img width="1042" height="577" alt="Screenshot 2026-05-18 205002" src="https://github.com/user-attachments/assets/7f45c1ec-24bd-46a6-ad35-12ec14b97368" />
+
 
 
 ## 💡 Future Improvements
