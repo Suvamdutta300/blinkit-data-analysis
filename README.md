@@ -76,7 +76,9 @@ This project focuses on analyzing Blinkit's sales data using Power BI to uncover
 ##  Author
 
 **Suvam Dutta**
+
 Data Analyst
+
 Email : Suvamdutta300@gmail.com
 
 Github : https://github.com/Suvamdutta300
